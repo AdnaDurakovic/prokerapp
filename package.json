@@ -1,0 +1,26 @@
+{
+  "name": "prokerapp",
+  "version": "1.0.0",
+  "description": "ProKer d.o.o - WebApp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdnaDurakovic/prokerapp.git"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "mongobd",
+    "webapp"
+  ],
+  "author": "Adna Durakovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdnaDurakovic/prokerapp/issues"
+  },
+  "homepage": "https://github.com/AdnaDurakovic/prokerapp#readme"
+}
